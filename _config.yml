@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://daviddeng.github.com
+url: http://daviddeng.me
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: David Deng
 simple_search: http://google.com/search
 description:
 
